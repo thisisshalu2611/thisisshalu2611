@@ -17,7 +17,7 @@ I'm a passionate developer with experience in [Business Analysr]. I love working
 - Tools: Sf
 
 ## 📈 GitHub Stats
-![thisishalu2611](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![thisishalu2611](https://github-readme-stats.vercel.app/api?thisisshalu2611=yourusername&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 - [LinkedIn]((https://www.linkedin.com/in/shalu-gopinathan-91177a170/))
