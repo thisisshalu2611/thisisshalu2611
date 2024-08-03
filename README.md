@@ -20,7 +20,7 @@ I am particularly fascinated by the field of product management and eager to exp
 - Tools: Sf
 
 ## 📈 GitHub Stats
-![thisishalu2611](https://github-readme-stats.vercel.app/api?username=thisishalu2611&show_icons=true&theme=radical)
+![thisishalu2611](https://github-readme-stats.vercel.app/api?username=thisisshalu2611&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/shalu-gopinathan-91177a170/)
