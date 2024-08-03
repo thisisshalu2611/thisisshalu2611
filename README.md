@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm [Shalu Gopinathan] 👋
 
-<!--
-**thisisshalu2611/thisisshalu2611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views]((https://www.linkedin.com/in/shalu-gopinathan-91177a170/))
 
-Here are some ideas to get you started:
+I'm a passionate developer with experience in [Business Analysr]. I love working on innovative projects and sharing knowledge with the community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 I’m currently working at Nextgen Clearing.
+- 🌱 I’m currently learning Salesforce.
+- 👯 I’m looking to collaborate on Web development, Digital Marketing.
+- 💬 Ask me about Analyst.
+- 📫 How to reach me: shalugopinathan2000@gmail.com or https://www.linkedin.com/in/shalu-gopinathan-91177a170/
+
+## 🛠️ Skills
+- Programming Languages: Python, HTML, C, Css and many other
+- Frameworks: Pandas
+- Tools: Sf
+
+## 📈 GitHub Stats
+![thisishalu2611](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 📫 Connect with Me
+- [LinkedIn]((https://www.linkedin.com/in/shalu-gopinathan-91177a170/))
+
